@@ -14,3 +14,9 @@ Project is created with the programming language Java.
 ## Setup
 To run this project, download it locally to get the results.
 
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/lightsout-graph.git
+cd lightsout-graph
+
+
