@@ -1,8 +1,6 @@
 ﻿Output for number of vertices from n = 3 to n =13
 
-
 For each e from 1 to  , the number of graphs on which Lights Out is universally solvable out of 1,000,000 trials of selecting a graph uniformly at random from the set of graphs with n vertices and e edges.
-
 
 Enter the number of vertices (n): 3
 Running trials for m = 1
@@ -1438,4 +1436,5 @@ Running trials for m = 39
 m:39
 Number of Invertible Graphs: 412263
 715332343ms
+
 ----------------------------------------------------------------------------------------------------------------
