@@ -1,0 +1,1441 @@
+﻿Output for number of vertices from n = 3 to n =13
+
+
+For each e from 1 to  , the number of graphs on which Lights Out is universally solvable out of 1,000,000 trials of selecting a graph uniformly at random from the set of graphs with n vertices and e edges.
+
+
+Enter the number of vertices (n): 3
+Running trials for m = 1
+m:1
+Number of Invertible Graphs: 0
+9568ms
+Running trials for complement m = 2
+m:1 (complement trials)
+Number of Invertible Graphs: 1000000
+17489ms
+----------------------------------------------------------------------------------------------------------------
+Enter the number of vertices (n): 4
+Running trials for m = 1
+m:1
+Number of Invertible Graphs: 0
+26791ms
+Running trials for complement m = 5
+m:1 (complement trials)
+Number of Invertible Graphs: 0
+50295ms
+Running trials for m = 2
+m:2
+Number of Invertible Graphs: 500579
+75312ms
+Running trials for complement m = 4
+m:2 (complement trials)
+Number of Invertible Graphs: 500397
+101144ms
+Running trials for m = 3
+m:3
+Number of Invertible Graphs: 333608
+123352ms
+Skipping complement since complementM == m
+----------------------------------------------------------------------------------------------------------------
+Enter the number of vertices (n): 5
+Running trials for m = 1
+m:1
+Number of Invertible Graphs: 0
+50369ms
+Running trials for complement m = 9
+m:1 (complement trials)
+Number of Invertible Graphs: 0
+101508ms
+Running trials for m = 2
+m:2
+Number of Invertible Graphs: 500186
+166242ms
+Running trials for complement m = 8
+m:2 (complement trials)
+Number of Invertible Graphs: 500341
+227666ms
+Running trials for m = 3
+m:3
+Number of Invertible Graphs: 249762
+287416ms
+Running trials for complement m = 7
+m:3 (complement trials)
+Number of Invertible Graphs: 250291
+347090ms
+Running trials for m = 4
+m:4
+Number of Invertible Graphs: 500064
+409142ms
+Running trials for complement m = 6
+m:4 (complement trials)
+Number of Invertible Graphs: 500463
+476088ms
+Running trials for m = 5
+m:5
+Number of Invertible Graphs: 333435
+551314ms
+Skipping complement since complementM == m
+----------------------------------------------------------------------------------------------------------------
+Enter the number of vertices (n): 6
+Running trials for m = 1
+m:1
+Number of Invertible Graphs: 0
+36969ms
+Running trials for complement m = 14
+m:1 (complement trials)
+Number of Invertible Graphs: 0
+71720ms
+Running trials for m = 2
+m:2
+Number of Invertible Graphs: 499472
+134791ms
+Running trials for complement m = 13
+m:2 (complement trials)
+Number of Invertible Graphs: 0
+198430ms
+Running trials for m = 3
+m:3
+Number of Invertible Graphs: 199795
+265572ms
+Running trials for complement m = 12
+m:3 (complement trials)
+Number of Invertible Graphs: 199983
+331975ms
+Running trials for m = 4
+m:4
+Number of Invertible Graphs: 444421
+406304ms
+Running trials for complement m = 11
+m:4 (complement trials)
+Number of Invertible Graphs: 110546
+482287ms
+Running trials for m = 5
+m:5
+Number of Invertible Graphs: 333709
+559542ms
+Running trials for complement m = 10
+m:5 (complement trials)
+Number of Invertible Graphs: 199872
+637370ms
+Running trials for m = 6
+m:6
+Number of Invertible Graphs: 333394
+715290ms
+Running trials for complement m = 9
+m:6 (complement trials)
+Number of Invertible Graphs: 285807
+793517ms
+Running trials for m = 7
+m:7
+Number of Invertible Graphs: 333908
+872492ms
+Running trials for complement m = 8
+m:7 (complement trials)
+Number of Invertible Graphs: 375275
+951939ms
+----------------------------------------------------------------------------------------------------------------
+Enter the number of vertices (n): 7
+Running trials for m = 1
+m:1
+Number of Invertible Graphs: 0
+54682ms
+Running trials for complement m = 20
+m:1 (complement trials)
+Number of Invertible Graphs: 0
+104304ms
+Running trials for m = 2
+m:2
+Number of Invertible Graphs: 499786
+212143ms
+Running trials for complement m = 19
+m:2 (complement trials)
+Number of Invertible Graphs: 0
+320562ms
+Running trials for m = 3
+m:3
+Number of Invertible Graphs: 199845
+457554ms
+Running trials for complement m = 18
+m:3 (complement trials)
+Number of Invertible Graphs: 200041
+595742ms
+Running trials for m = 4
+m:4
+Number of Invertible Graphs: 399388
+764149ms
+Running trials for complement m = 17
+m:4 (complement trials)
+Number of Invertible Graphs: 100079
+934798ms
+Running trials for m = 5
+m:5
+Number of Invertible Graphs: 285396
+1107273ms
+Running trials for complement m = 16
+m:5 (complement trials)
+Number of Invertible Graphs: 237603
+1282189ms
+Running trials for m = 6
+m:6
+Number of Invertible Graphs: 366563
+1448395ms
+Running trials for complement m = 15
+m:6 (complement trials)
+Number of Invertible Graphs: 243507
+1613180ms
+Running trials for m = 7
+m:7
+Number of Invertible Graphs: 322955
+1776011ms
+Running trials for complement m = 14
+m:7 (complement trials)
+Number of Invertible Graphs: 338406
+1939303ms
+Running trials for m = 8
+m:8
+Number of Invertible Graphs: 349510
+2090482ms
+Running trials for complement m = 13
+m:8 (complement trials)
+Number of Invertible Graphs: 309278
+2244520ms
+Running trials for m = 9
+m:9
+Number of Invertible Graphs: 320498
+2395312ms
+Running trials for complement m = 12
+m:9 (complement trials)
+Number of Invertible Graphs: 358412
+2544814ms
+Running trials for m = 10
+m:10
+Number of Invertible Graphs: 350530
+2694935ms
+Running trials for complement m = 11
+m:10 (complement trials)
+Number of Invertible Graphs: 311275
+2845387ms
+----------------------------------------------------------------------------------------------------------------
+Enter the number of vertices (n): 8
+Running trials for m = 1
+m:1
+Number of Invertible Graphs: 0
+131701ms
+Running trials for complement m = 27
+m:1 (complement trials)
+Number of Invertible Graphs: 0
+264259ms
+Running trials for m = 2
+m:2
+Number of Invertible Graphs: 499919
+587950ms
+Running trials for complement m = 26
+m:2 (complement trials)
+Number of Invertible Graphs: 0
+919719ms
+Running trials for m = 3
+m:3
+Number of Invertible Graphs: 199316
+1390980ms
+Running trials for complement m = 25
+m:3 (complement trials)
+Number of Invertible Graphs: 0
+1877387ms
+Running trials for m = 4
+m:4
+Number of Invertible Graphs: 363499
+2637386ms
+Running trials for complement m = 24
+m:4 (complement trials)
+Number of Invertible Graphs: 91008
+3388491ms
+Running trials for m = 5
+m:5
+Number of Invertible Graphs: 249911
+4279454ms
+Running trials for complement m = 23
+m:5 (complement trials)
+Number of Invertible Graphs: 41872
+5141573ms
+Running trials for m = 6
+m:6
+Number of Invertible Graphs: 321910
+6062650ms
+Running trials for complement m = 22
+m:6 (complement trials)
+Number of Invertible Graphs: 71329
+6896095ms
+Running trials for m = 7
+m:7
+Number of Invertible Graphs: 312796
+7691264ms
+Running trials for complement m = 21
+m:7 (complement trials)
+Number of Invertible Graphs: 104666
+8488183ms
+Running trials for m = 8
+m:8
+Number of Invertible Graphs: 321971
+9216137ms
+Running trials for complement m = 20
+m:8 (complement trials)
+Number of Invertible Graphs: 167277
+9947468ms
+Running trials for m = 9
+m:9
+Number of Invertible Graphs: 325698
+10590986ms
+Running trials for complement m = 19
+m:9 (complement trials)
+Number of Invertible Graphs: 219285
+11255793ms
+Running trials for m = 10
+m:10
+Number of Invertible Graphs: 343950
+11853776ms
+Running trials for complement m = 18
+m:10 (complement trials)
+Number of Invertible Graphs: 273169
+12442961ms
+Running trials for m = 11
+m:11
+Number of Invertible Graphs: 346355
+12970573ms
+Running trials for complement m = 17
+m:11 (complement trials)
+Number of Invertible Graphs: 304621
+13534777ms
+Running trials for m = 12
+m:12
+Number of Invertible Graphs: 359100
+14104134ms
+Running trials for complement m = 16
+m:12 (complement trials)
+Number of Invertible Graphs: 336634
+14673862ms
+Running trials for m = 13
+m:13
+Number of Invertible Graphs: 353405
+15218377ms
+Running trials for complement m = 15
+m:13 (complement trials)
+Number of Invertible Graphs: 345785
+15758612ms
+Running trials for m = 14
+m:14
+Number of Invertible Graphs: 354413
+16304090ms
+Skipping complement since complementM == m
+----------------------------------------------------------------------------------------------------------------
+Enter the number of vertices (n): 9
+Running trials for m = 1
+m:1
+Number of Invertible Graphs: 0
+181970ms
+Running trials for complement m = 35
+m:1 (complement trials)
+Number of Invertible Graphs: 0
+356528ms
+Running trials for m = 2
+m:2
+Number of Invertible Graphs: 499920
+865540ms
+Running trials for complement m = 34
+m:2 (complement trials)
+Number of Invertible Graphs: 0
+1349459ms
+Running trials for m = 3
+m:3
+Number of Invertible Graphs: 200248
+2271826ms
+Running trials for complement m = 33
+m:3 (complement trials)
+Number of Invertible Graphs: 0
+3260019ms
+Running trials for m = 4
+m:4
+Number of Invertible Graphs: 363940
+4822562ms
+Running trials for complement m = 32
+m:4 (complement trials)
+Number of Invertible Graphs: 90537
+6454294ms
+Running trials for m = 5
+m:5
+Number of Invertible Graphs: 240663
+8435560ms
+Running trials for complement m = 31
+m:5 (complement trials)
+Number of Invertible Graphs: 39722
+10420066ms
+Running trials for m = 6
+m:6
+Number of Invertible Graphs: 302106
+12506312ms
+Running trials for complement m = 30
+m:6 (complement trials)
+Number of Invertible Graphs: 95091
+14709619ms
+Running trials for m = 7
+m:7
+Number of Invertible Graphs: 277388
+16838741ms
+Running trials for complement m = 29
+m:7 (complement trials)
+Number of Invertible Graphs: 114246
+18865344ms
+Running trials for m = 8
+m:8
+Number of Invertible Graphs: 307850
+20663924ms
+Running trials for complement m = 28
+m:8 (complement trials)
+Number of Invertible Graphs: 180504
+22500506ms
+Running trials for m = 9
+m:9
+Number of Invertible Graphs: 307524
+24054153ms
+Running trials for complement m = 27
+m:9 (complement trials)
+Number of Invertible Graphs: 215122
+25632242ms
+Running trials for m = 10
+m:10
+Number of Invertible Graphs: 331077
+26994638ms
+Running trials for complement m = 26
+m:10 (complement trials)
+Number of Invertible Graphs: 264087
+28655949ms
+Running trials for m = 11
+m:11
+Number of Invertible Graphs: 341577
+30061408ms
+Running trials for complement m = 25
+m:11 (complement trials)
+Number of Invertible Graphs: 289836
+31465810ms
+Running trials for m = 12
+m:12
+Number of Invertible Graphs: 354687
+32641975ms
+Running trials for complement m = 24
+m:12 (complement trials)
+Number of Invertible Graphs: 322319
+33830508ms
+Running trials for m = 13
+m:13
+Number of Invertible Graphs: 359621
+34836194ms
+Running trials for complement m = 23
+m:13 (complement trials)
+Number of Invertible Graphs: 336727
+35832799ms
+Running trials for m = 14
+m:14
+Number of Invertible Graphs: 364539
+36732357ms
+Running trials for complement m = 22
+m:14 (complement trials)
+Number of Invertible Graphs: 353830
+37628045ms
+Running trials for m = 15
+m:15
+Number of Invertible Graphs: 363156
+38437658ms
+Running trials for complement m = 21
+m:15 (complement trials)
+Number of Invertible Graphs: 360068
+39256190ms
+Running trials for m = 16
+m:16
+Number of Invertible Graphs: 366063
+40017152ms
+Running trials for complement m = 20
+m:16 (complement trials)
+Number of Invertible Graphs: 365207
+40783864ms
+Running trials for m = 17
+m:17
+Number of Invertible Graphs: 364274
+41504751ms
+Running trials for complement m = 19
+m:17 (complement trials)
+Number of Invertible Graphs: 362569
+42224652ms
+Running trials for m = 18
+m:18
+Number of Invertible Graphs: 366417
+42980416ms
+Skipping complement since complementM == m
+----------------------------------------------------------------------------------------------------------------
+Enter the number of vertices (n): 10
+Running trials for m = 1
+m:1
+Number of Invertible Graphs: 0
+274320ms
+Running trials for complement m = 44
+m:1 (complement trials)
+Number of Invertible Graphs: 0
+549481ms
+Running trials for m = 2
+m:2
+Number of Invertible Graphs: 499400
+1427250ms
+Running trials for complement m = 43
+m:2 (complement trials)
+Number of Invertible Graphs: 0
+2316018ms
+Running trials for m = 3
+m:3
+Number of Invertible Graphs: 199833
+4091105ms
+Running trials for complement m = 42
+m:3 (complement trials)
+Number of Invertible Graphs: 0
+5770990ms
+Running trials for m = 4
+m:4
+Number of Invertible Graphs: 363571
+8748623ms
+Running trials for complement m = 41
+m:4 (complement trials)
+Number of Invertible Graphs: 0
+11805389ms
+Running trials for m = 5
+m:5
+Number of Invertible Graphs: 230841
+16293841ms
+Running trials for complement m = 40
+m:5 (complement trials)
+Number of Invertible Graphs: 38469
+20531221ms
+Running trials for m = 6
+m:6
+Number of Invertible Graphs: 287559
+25574895ms
+Running trials for complement m = 39
+m:6 (complement trials)
+Number of Invertible Graphs: 15224
+31876055ms
+Running trials for m = 7
+m:7
+Number of Invertible Graphs: 254501
+38552048ms
+Running trials for complement m = 38
+m:7 (complement trials)
+Number of Invertible Graphs: 24290
+44767003ms
+Running trials for m = 8
+m:8
+Number of Invertible Graphs: 279321
+50272257ms
+Running trials for complement m = 37
+m:8 (complement trials)
+Number of Invertible Graphs: 32591
+55854866ms
+Running trials for m = 9
+m:9
+Number of Invertible Graphs: 285446
+61220239ms
+Running trials for complement m = 36
+m:9 (complement trials)
+Number of Invertible Graphs: 54569
+66576208ms
+Running trials for m = 10
+m:10
+Number of Invertible Graphs: 304450
+70990583ms
+Running trials for complement m = 35
+m:10 (complement trials)
+Number of Invertible Graphs: 82956
+75398276ms
+Running trials for m = 11
+m:11
+Number of Invertible Graphs: 320889
+78882518ms
+Running trials for complement m = 34
+m:11 (complement trials)
+Number of Invertible Graphs: 126419
+82372754ms
+Running trials for m = 12
+m:12
+Number of Invertible Graphs: 336026
+85087690ms
+Running trials for complement m = 33
+m:12 (complement trials)
+Number of Invertible Graphs: 173787
+87811954ms
+Running trials for m = 13
+m:13
+Number of Invertible Graphs: 348091
+89934576ms
+Running trials for complement m = 32
+m:13 (complement trials)
+Number of Invertible Graphs: 222100
+92070205ms
+Running trials for m = 14
+m:14
+Number of Invertible Graphs: 357128
+93762334ms
+Running trials for complement m = 31
+m:14 (complement trials)
+Number of Invertible Graphs: 265220
+95428694ms
+Running trials for m = 15
+m:15
+Number of Invertible Graphs: 366398
+96791336ms
+Running trials for complement m = 30
+m:15 (complement trials)
+Number of Invertible Graphs: 300978
+98155345ms
+Running trials for m = 16
+m:16
+Number of Invertible Graphs: 373795
+99284207ms
+Running trials for complement m = 29
+m:16 (complement trials)
+Number of Invertible Graphs: 328518
+100417379ms
+Running trials for m = 17
+m:17
+Number of Invertible Graphs: 378671
+101365152ms
+Running trials for complement m = 28
+m:17 (complement trials)
+Number of Invertible Graphs: 350667
+102310572ms
+Running trials for m = 18
+m:18
+Number of Invertible Graphs: 382819
+103154143ms
+Running trials for complement m = 27
+m:18 (complement trials)
+Number of Invertible Graphs: 365266
+103995514ms
+Running trials for m = 19
+m:19
+Number of Invertible Graphs: 386209
+104744629ms
+Running trials for complement m = 26
+m:19 (complement trials)
+Number of Invertible Graphs: 375407
+105494719ms
+Running trials for m = 20
+m:20
+Number of Invertible Graphs: 388778
+106200856ms
+Running trials for complement m = 25
+m:20 (complement trials)
+Number of Invertible Graphs: 382296
+106920091ms
+Running trials for m = 21
+m:21
+Number of Invertible Graphs: 389532
+107603778ms
+Running trials for complement m = 24
+m:21 (complement trials)
+Number of Invertible Graphs: 387827
+108288614ms
+Running trials for m = 22
+m:22
+Number of Invertible Graphs: 390373
+108952055ms
+Running trials for complement m = 23
+m:22 (complement trials)
+Number of Invertible Graphs: 389508
+109609225ms
+----------------------------------------------------------------------------------------------------------------
+Enter the number of vertices (n): 11
+Running trials for m = 1
+m:1
+Number of Invertible Graphs: 0
+211067ms
+Running trials for complement m = 54
+m:1 (complement trials)
+Number of Invertible Graphs: 0
+386599ms
+Running trials for m = 2
+m:2
+Number of Invertible Graphs: 499724
+1034189ms
+Running trials for complement m = 53
+m:2 (complement trials)
+Number of Invertible Graphs: 0
+1680300ms
+Running trials for m = 3
+m:3
+Number of Invertible Graphs: 200551
+3098588ms
+Running trials for complement m = 52
+m:3 (complement trials)
+Number of Invertible Graphs: 0
+4514053ms
+Running trials for m = 4
+m:4
+Number of Invertible Graphs: 363507
+7355626ms
+Running trials for complement m = 51
+m:4 (complement trials)
+Number of Invertible Graphs: 0
+10189015ms
+Running trials for m = 5
+m:5
+Number of Invertible Graphs: 230845
+14801121ms
+Running trials for complement m = 50
+m:5 (complement trials)
+Number of Invertible Graphs: 38504
+19356413ms
+Running trials for m = 6
+m:6
+Number of Invertible Graphs: 283949
+25155681ms
+Running trials for complement m = 49
+m:6 (complement trials)
+Number of Invertible Graphs: 14937
+30971299ms
+Running trials for m = 7
+m:7
+Number of Invertible Graphs: 244384
+37741969ms
+Running trials for complement m = 48
+m:7 (complement trials)
+Number of Invertible Graphs: 35003
+47458236ms
+Running trials for m = 8
+m:8
+Number of Invertible Graphs: 263545
+58329923ms
+Running trials for complement m = 47
+m:8 (complement trials)
+Number of Invertible Graphs: 40787
+67049359ms
+Running trials for m = 9
+m:9
+Number of Invertible Graphs: 262488
+73457506ms
+Running trials for complement m = 46
+m:9 (complement trials)
+Number of Invertible Graphs: 68320
+83916722ms
+Running trials for m = 10
+m:10
+Number of Invertible Graphs: 283742
+95181601ms
+Running trials for complement m = 45
+m:10 (complement trials)
+Number of Invertible Graphs: 96906
+107007035ms
+Running trials for m = 11
+m:11
+Number of Invertible Graphs: 295869
+117525413ms
+Running trials for complement m = 44
+m:11 (complement trials)
+Number of Invertible Graphs: 140461
+127243832ms
+Running trials for m = 12
+m:12
+Number of Invertible Graphs: 314470
+134631121ms
+Running trials for complement m = 43
+m:12 (complement trials)
+Number of Invertible Graphs: 184645
+142472825ms
+Running trials for m = 13
+m:13
+Number of Invertible Graphs: 328777
+148291713ms
+Running trials for complement m = 42
+m:13 (complement trials)
+Number of Invertible Graphs: 229736
+154118445ms
+Running trials for m = 14
+m:14
+Number of Invertible Graphs: 344268
+158390055ms
+Running trials for complement m = 41
+m:14 (complement trials)
+Number of Invertible Graphs: 267545
+162667518ms
+Running trials for m = 15
+m:15
+Number of Invertible Graphs: 357644
+165830455ms
+Running trials for complement m = 40
+m:15 (complement trials)
+Number of Invertible Graphs: 299494
+168990223ms
+Running trials for m = 16
+m:16
+Number of Invertible Graphs: 368724
+171412524ms
+Running trials for complement m = 39
+m:16 (complement trials)
+Number of Invertible Graphs: 324121
+173794342ms
+Running trials for m = 17
+m:17
+Number of Invertible Graphs: 376659
+175626510ms
+Running trials for complement m = 38
+m:17 (complement trials)
+Number of Invertible Graphs: 344516
+177485703ms
+Running trials for m = 18
+m:18
+Number of Invertible Graphs: 383929
+178950071ms
+Running trials for complement m = 37
+m:18 (complement trials)
+Number of Invertible Graphs: 358598
+180417274ms
+Running trials for m = 19
+m:19
+Number of Invertible Graphs: 388856
+181615053ms
+Running trials for complement m = 36
+m:19 (complement trials)
+Number of Invertible Graphs: 370198
+182812840ms
+Running trials for m = 20
+m:20
+Number of Invertible Graphs: 393536
+183822369ms
+Running trials for complement m = 35
+m:20 (complement trials)
+Number of Invertible Graphs: 378623
+184838666ms
+Running trials for m = 21
+m:21
+Number of Invertible Graphs: 396004
+185716066ms
+Running trials for complement m = 34
+m:21 (complement trials)
+Number of Invertible Graphs: 386070
+186592379ms
+Running trials for m = 22
+m:22
+Number of Invertible Graphs: 396182
+187369768ms
+Running trials for complement m = 33
+m:22 (complement trials)
+Number of Invertible Graphs: 390987
+188097511ms
+Running trials for m = 23
+m:23
+Number of Invertible Graphs: 397806
+188756601ms
+Running trials for complement m = 32
+m:23 (complement trials)
+Number of Invertible Graphs: 393628
+189414555ms
+Running trials for m = 24
+m:24
+Number of Invertible Graphs: 398648
+190028846ms
+Running trials for complement m = 31
+m:24 (complement trials)
+Number of Invertible Graphs: 395805
+190644753ms
+Running trials for m = 25
+m:25
+Number of Invertible Graphs: 398657
+191238219ms
+Running trials for complement m = 30
+m:25 (complement trials)
+Number of Invertible Graphs: 397270
+191833825ms
+Running trials for m = 26
+m:26
+Number of Invertible Graphs: 397970
+192403502ms
+Running trials for complement m = 29
+m:26 (complement trials)
+Number of Invertible Graphs: 398135
+192971795ms
+Running trials for m = 27
+m:27
+Number of Invertible Graphs: 397904
+193537733ms
+Running trials for complement m = 28
+m:27 (complement trials)
+Number of Invertible Graphs: 397958
+194106052ms
+----------------------------------------------------------------------------------------------------------------
+Enter the number of vertices (n): 12
+Running trials for m = 1
+m:1
+Number of Invertible Graphs: 0
+444610ms
+Running trials for complement m = 65
+m:1 (complement trials)
+Number of Invertible Graphs: 0
+883921ms
+Running trials for m = 2
+m:2
+Number of Invertible Graphs: 499463
+2608546ms
+Running trials for complement m = 64
+m:2 (complement trials)
+Number of Invertible Graphs: 0
+4305127ms
+Running trials for m = 3
+m:3
+Number of Invertible Graphs: 200089
+8396032ms
+Running trials for complement m = 63
+m:3 (complement trials)
+Number of Invertible Graphs: 0
+13134775ms
+Running trials for m = 4
+m:4
+Number of Invertible Graphs: 364492
+24592849ms
+Running trials for complement m = 62
+m:4 (complement trials)
+Number of Invertible Graphs: 0
+34888813ms
+Running trials for m = 5
+m:5
+Number of Invertible Graphs: 230357
+54202926ms
+Running trials for complement m = 61
+m:5 (complement trials)
+Number of Invertible Graphs: 0
+74202382ms
+Running trials for m = 6
+m:6
+Number of Invertible Graphs: 279425
+101461030ms
+Running trials for complement m = 60
+m:6 (complement trials)
+Number of Invertible Graphs: 14655
+122401056ms
+Running trials for m = 7
+m:7
+Number of Invertible Graphs: 240084
+149384904ms
+Running trials for complement m = 59
+m:7 (complement trials)
+Number of Invertible Graphs: 5670
+176122329ms
+Running trials for m = 8
+m:8
+Number of Invertible Graphs: 255557
+205440643ms
+Running trials for complement m = 58
+m:8 (complement trials)
+Number of Invertible Graphs: 8299
+234582357ms
+Running trials for m = 9
+m:9
+Number of Invertible Graphs: 248556
+262709927ms
+Running trials for complement m = 57
+m:9 (complement trials)
+Number of Invertible Graphs: 10773
+291342717ms
+Running trials for m = 10
+m:10
+Number of Invertible Graphs: 264135
+318609557ms
+Running trials for complement m = 56
+m:10 (complement trials)
+Number of Invertible Graphs: 16212
+332975152ms
+Running trials for m = 11
+m:11
+Number of Invertible Graphs: 275422
+343585210ms
+Running trials for complement m = 55
+m:11 (complement trials)
+Number of Invertible Graphs: 25507
+354177466ms
+Running trials for m = 12
+m:12
+Number of Invertible Graphs: 290852
+362151576ms
+Running trials for complement m = 54
+m:12 (complement trials)
+Number of Invertible Graphs: 41626
+370171816ms
+Running trials for m = 13
+m:13
+Number of Invertible Graphs: 307977
+375916559ms
+Running trials for complement m = 53
+m:13 (complement trials)
+Number of Invertible Graphs: 65641
+381667975ms
+Running trials for m = 14
+m:14
+Number of Invertible Graphs: 323746
+385682722ms
+Running trials for complement m = 52
+m:14 (complement trials)
+Number of Invertible Graphs: 98461
+389697215ms
+Running trials for m = 15
+m:15
+Number of Invertible Graphs: 340155
+392458797ms
+Running trials for complement m = 51
+m:15 (complement trials)
+Number of Invertible Graphs: 136891
+395219010ms
+Running trials for m = 16
+m:16
+Number of Invertible Graphs: 354000
+397124265ms
+Running trials for complement m = 50
+m:16 (complement trials)
+Number of Invertible Graphs: 178374
+399028619ms
+Running trials for m = 17
+m:17
+Number of Invertible Graphs: 364707
+400353227ms
+Running trials for complement m = 49
+m:17 (complement trials)
+Number of Invertible Graphs: 217856
+401678522ms
+Running trials for m = 18
+m:18
+Number of Invertible Graphs: 375543
+402617260ms
+Running trials for complement m = 48
+m:18 (complement trials)
+Number of Invertible Graphs: 255777
+403556888ms
+Running trials for m = 19
+m:19
+Number of Invertible Graphs: 382263
+404239216ms
+Running trials for complement m = 47
+m:19 (complement trials)
+Number of Invertible Graphs: 288664
+404921840ms
+Running trials for m = 20
+m:20
+Number of Invertible Graphs: 387929
+405433954ms
+Running trials for complement m = 46
+m:20 (complement trials)
+Number of Invertible Graphs: 315321
+405945870ms
+Running trials for m = 21
+m:21
+Number of Invertible Graphs: 392398
+406342207ms
+Running trials for complement m = 45
+m:21 (complement trials)
+Number of Invertible Graphs: 338081
+406740088ms
+Running trials for m = 22
+m:22
+Number of Invertible Graphs: 396219
+407057196ms
+Running trials for complement m = 44
+m:22 (complement trials)
+Number of Invertible Graphs: 355199
+407375522ms
+Running trials for m = 23
+m:23
+Number of Invertible Graphs: 398679
+407638247ms
+Running trials for complement m = 43
+m:23 (complement trials)
+Number of Invertible Graphs: 369140
+407901983ms
+Running trials for m = 24
+m:24
+Number of Invertible Graphs: 400726
+408126719ms
+Running trials for complement m = 42
+m:24 (complement trials)
+Number of Invertible Graphs: 379956
+408352446ms
+Running trials for m = 25
+m:25
+Number of Invertible Graphs: 402630
+408550479ms
+Running trials for complement m = 41
+m:25 (complement trials)
+Number of Invertible Graphs: 387447
+408749360ms
+Running trials for m = 26
+m:26
+Number of Invertible Graphs: 404618
+408927635ms
+Running trials for complement m = 40
+m:26 (complement trials)
+Number of Invertible Graphs: 392940
+409106644ms
+Running trials for m = 27
+m:27
+Number of Invertible Graphs: 406422
+409271358ms
+Running trials for complement m = 39
+m:27 (complement trials)
+Number of Invertible Graphs: 398517
+409436931ms
+Running trials for m = 28
+m:28
+Number of Invertible Graphs: 406209
+409591608ms
+Running trials for complement m = 38
+m:28 (complement trials)
+Number of Invertible Graphs: 401894
+409747240ms
+Running trials for m = 29
+m:29
+Number of Invertible Graphs: 407586
+409895105ms
+Running trials for complement m = 37
+m:29 (complement trials)
+Number of Invertible Graphs: 404648
+410043573ms
+Running trials for m = 30
+m:30
+Number of Invertible Graphs: 407843
+410188035ms
+Running trials for complement m = 36
+m:30 (complement trials)
+Number of Invertible Graphs: 407095
+410333146ms
+Running trials for m = 31
+m:31
+Number of Invertible Graphs: 407941
+410473834ms
+Running trials for complement m = 35
+m:31 (complement trials)
+Number of Invertible Graphs: 408278
+410615340ms
+Running trials for m = 32
+m:32
+Number of Invertible Graphs: 408232
+410754323ms
+Running trials for complement m = 34
+m:32 (complement trials)
+Number of Invertible Graphs: 407194
+410894504ms
+Running trials for m = 33
+m:33
+Number of Invertible Graphs: 407777
+411034783ms
+Skipping complement since complementM == m
+----------------------------------------------------------------------------------------------------------------
+Enter the number of vertices (n): 13
+Running trials for m = 1
+m:1
+Number of Invertible Graphs: 0
+689264ms
+Running trials for complement m = 77
+m:1 (complement trials)
+Number of Invertible Graphs: 0
+1360415ms
+Running trials for m = 2
+m:2
+Number of Invertible Graphs: 499294
+4235700ms
+Running trials for complement m = 76
+m:2 (complement trials)
+Number of Invertible Graphs: 0
+7127504ms
+Running trials for m = 3
+m:3
+Number of Invertible Graphs: 199568
+14641910ms
+Running trials for complement m = 75
+m:3 (complement trials)
+Number of Invertible Graphs: 0
+22128555ms
+Running trials for m = 4
+m:4
+Number of Invertible Graphs: 363899
+40206078ms
+Running trials for complement m = 74
+m:4 (complement trials)
+Number of Invertible Graphs: 0
+57793080ms
+Running trials for m = 5
+m:5
+Number of Invertible Graphs: 230106
+84141041ms
+Running trials for complement m = 73
+m:5 (complement trials)
+Number of Invertible Graphs: 0
+110018535ms
+Running trials for m = 6
+m:6
+Number of Invertible Graphs: 279965
+149583991ms
+Running trials for complement m = 72
+m:6 (complement trials)
+Number of Invertible Graphs: 14552
+189026448ms
+Running trials for m = 7
+m:7
+Number of Invertible Graphs: 238693
+244600337ms
+Running trials for complement m = 71
+m:7 (complement trials)
+Number of Invertible Graphs: 5739
+292400481ms
+Running trials for m = 8
+m:8
+Number of Invertible Graphs: 252276
+327685555ms
+Running trials for complement m = 70
+m:8 (complement trials)
+Number of Invertible Graphs: 12321
+362989785ms
+Running trials for m = 9
+m:9
+Number of Invertible Graphs: 241871
+399559729ms
+Running trials for complement m = 69
+m:9 (complement trials)
+Number of Invertible Graphs: 14105
+436409268ms
+Running trials for m = 10
+m:10
+Number of Invertible Graphs: 253103
+472042632ms
+Running trials for complement m = 68
+m:10 (complement trials)
+Number of Invertible Graphs: 22349
+506523170ms
+Running trials for m = 11
+m:11
+Number of Invertible Graphs: 260253
+536024510ms
+Running trials for complement m = 67
+m:11 (complement trials)
+Number of Invertible Graphs: 33189
+565030658ms
+Running trials for m = 12
+m:12
+Number of Invertible Graphs: 272231
+587667073ms
+Running trials for complement m = 66
+m:12 (complement trials)
+Number of Invertible Graphs: 53189
+610265145ms
+Running trials for m = 13
+m:13
+Number of Invertible Graphs: 286001
+626818729ms
+Running trials for complement m = 65
+m:13 (complement trials)
+Number of Invertible Graphs: 80770
+643248314ms
+Running trials for m = 14
+m:14
+Number of Invertible Graphs: 302467
+654658322ms
+Running trials for complement m = 64
+m:14 (complement trials)
+Number of Invertible Graphs: 116132
+666303523ms
+Running trials for m = 15
+m:15
+Number of Invertible Graphs: 318041
+673953459ms
+Running trials for complement m = 63
+m:15 (complement trials)
+Number of Invertible Graphs: 156529
+681621116ms
+Running trials for m = 16
+m:16
+Number of Invertible Graphs: 333883
+686645557ms
+Running trials for complement m = 62
+m:16 (complement trials)
+Number of Invertible Graphs: 198391
+691729239ms
+Running trials for m = 17
+m:17
+Number of Invertible Graphs: 346637
+695015355ms
+Running trials for complement m = 61
+m:17 (complement trials)
+Number of Invertible Graphs: 236771
+698312483ms
+Running trials for m = 18
+m:18
+Number of Invertible Graphs: 358702
+700476536ms
+Running trials for complement m = 60
+m:18 (complement trials)
+Number of Invertible Graphs: 272193
+702636620ms
+Running trials for m = 19
+m:19
+Number of Invertible Graphs: 368772
+704066024ms
+Running trials for complement m = 59
+m:19 (complement trials)
+Number of Invertible Graphs: 300909
+705497871ms
+Running trials for m = 20
+m:20
+Number of Invertible Graphs: 376524
+706470946ms
+Running trials for complement m = 58
+m:20 (complement trials)
+Number of Invertible Graphs: 324630
+707447924ms
+Running trials for m = 21
+m:21
+Number of Invertible Graphs: 384010
+708129400ms
+Running trials for complement m = 57
+m:21 (complement trials)
+Number of Invertible Graphs: 342884
+708811554ms
+Running trials for m = 22
+m:22
+Number of Invertible Graphs: 389572
+709305361ms
+Running trials for complement m = 56
+m:22 (complement trials)
+Number of Invertible Graphs: 358582
+709800299ms
+Running trials for m = 23
+m:23
+Number of Invertible Graphs: 394758
+710171972ms
+Running trials for complement m = 55
+m:23 (complement trials)
+Number of Invertible Graphs: 371224
+710545152ms
+Running trials for m = 24
+m:24
+Number of Invertible Graphs: 398829
+710837538ms
+Running trials for complement m = 54
+m:24 (complement trials)
+Number of Invertible Graphs: 380220
+711131830ms
+Running trials for m = 25
+m:25
+Number of Invertible Graphs: 401359
+711369822ms
+Running trials for complement m = 53
+m:25 (complement trials)
+Number of Invertible Graphs: 387123
+711609068ms
+Running trials for m = 26
+m:26
+Number of Invertible Graphs: 404280
+711810947ms
+Running trials for complement m = 52
+m:26 (complement trials)
+Number of Invertible Graphs: 392820
+712013712ms
+Running trials for m = 27
+m:27
+Number of Invertible Graphs: 406430
+712190417ms
+Running trials for complement m = 51
+m:27 (complement trials)
+Number of Invertible Graphs: 397383
+712367954ms
+Running trials for m = 28
+m:28
+Number of Invertible Graphs: 408858
+712527030ms
+Running trials for complement m = 50
+m:28 (complement trials)
+Number of Invertible Graphs: 401896
+712687226ms
+Running trials for m = 29
+m:29
+Number of Invertible Graphs: 409305
+712833691ms
+Running trials for complement m = 49
+m:29 (complement trials)
+Number of Invertible Graphs: 403351
+712981457ms
+Running trials for m = 30
+m:30
+Number of Invertible Graphs: 410125
+713119473ms
+Running trials for complement m = 48
+m:30 (complement trials)
+Number of Invertible Graphs: 405994
+713258250ms
+Running trials for m = 31
+m:31
+Number of Invertible Graphs: 411138
+713389715ms
+Running trials for complement m = 47
+m:31 (complement trials)
+Number of Invertible Graphs: 407995
+713521891ms
+Running trials for m = 32
+m:32
+Number of Invertible Graphs: 411297
+713648399ms
+Running trials for complement m = 46
+m:32 (complement trials)
+Number of Invertible Graphs: 410095
+713775793ms
+Running trials for m = 33
+m:33
+Number of Invertible Graphs: 412302
+713899321ms
+Running trials for complement m = 45
+m:33 (complement trials)
+Number of Invertible Graphs: 410177
+714023275ms
+Running trials for m = 34
+m:34
+Number of Invertible Graphs: 412295
+714144322ms
+Running trials for complement m = 44
+m:34 (complement trials)
+Number of Invertible Graphs: 410961
+714266255ms
+Running trials for m = 35
+m:35
+Number of Invertible Graphs: 412268
+714385453ms
+Running trials for complement m = 43
+m:35 (complement trials)
+Number of Invertible Graphs: 411874
+714505683ms
+Running trials for m = 36
+m:36
+Number of Invertible Graphs: 411811
+714623982ms
+Running trials for complement m = 42
+m:36 (complement trials)
+Number of Invertible Graphs: 411205
+714743420ms
+Running trials for m = 37
+m:37
+Number of Invertible Graphs: 411792
+714860640ms
+Running trials for complement m = 41
+m:37 (complement trials)
+Number of Invertible Graphs: 411892
+714979066ms
+Running trials for m = 38
+m:38
+Number of Invertible Graphs: 412040
+715096444ms
+Running trials for complement m = 40
+m:38 (complement trials)
+Number of Invertible Graphs: 411530
+715214505ms
+Running trials for m = 39
+m:39
+Number of Invertible Graphs: 412263
+715332343ms
+----------------------------------------------------------------------------------------------------------------
