@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-The purpose of this project is to estimate the probability of winning the game Lights Out on a random graph for n vertices and m edges. The project generates a random graph using the algorithm presented by Nicholas C. Wormald in the paper *Generating Random Unlabelled Graphs*. 
+The purpose of this project is to estimate the probability of winning the game Lights Out on a random graph for n vertices and e edges. The project generates a random graph using the algorithm presented by Nicholas C. Wormald in the paper *Generating Random Unlabelled Graphs*. 
 	
 ## Technologies
 Project is created with the programming language Java.
